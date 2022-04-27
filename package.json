@@ -1,0 +1,11 @@
+{
+  "name": "frasan-patino-original-sass",
+  "version": "1.0.0",
+  "description": "frasan sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/frasan.scss css/frasan.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
